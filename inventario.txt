@@ -1,4 +1,5 @@
 arroz
 fideo
-café
-azucar
+cafe
+atun
+ahiote
